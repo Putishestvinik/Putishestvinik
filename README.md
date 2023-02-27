@@ -1,5 +1,5 @@
 # Hi 👋, my name is **Danial Shramkov**
-## I'm BackEnd ( and sometimes FrontEnd :) ) developer from Ukraine
+## I'm Full Stack developer from Ukraine
 ### Language and technologies:
 ![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=C-Sharp)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
