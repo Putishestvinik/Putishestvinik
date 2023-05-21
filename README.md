@@ -1,4 +1,4 @@
-# Hi 👋, my name is **Danial Shramkov**
+# Hi 👋, my name is **Danylo Shramkov**
 ## I'm Full Stack developer from Ukraine
 ### Language and technologies:
 ![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=C-Sharp)
