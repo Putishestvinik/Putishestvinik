@@ -13,7 +13,7 @@
 #### Mail me: d.o.shramkov@gmail.com
 #### Telegram: @Putishestvinik 
 #
-> Programmer says ‘=’ != ‘==’
+> Deploying changes to production on Friday is actually a bad idea.
 
 
 <!--
