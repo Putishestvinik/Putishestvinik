@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=C-Sharp)
-#### ![Send Mail](mailto:d.o.shramkov@gmail.com)
+#### [Send Mail](mailto:d.o.shramkov@gmail.com)
 #### Telegram: @Putishestvinik 
 #
 > Deploying changes to production on Friday is actually a bad idea.
